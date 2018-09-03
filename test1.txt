@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is B278-7E48
+
+ Directory of E:\Git_Project
+
+03-Sep-18  02:03 PM    <DIR>          .
+03-Sep-18  02:03 PM    <DIR>          ..
+03-Sep-18  02:03 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  75,881,312,256 bytes free
